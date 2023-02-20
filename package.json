@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Mistigrix/PokedexApi/issues"
   },
-  "homepage": "https://github.com/Mistigrix/PokedexApi#readme"
+  "homepage": "https://github.com/Mistigrix/PokedexApi#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.20"
+  }
 }
